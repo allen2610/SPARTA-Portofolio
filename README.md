@@ -1,6 +1,6 @@
 ## Personal Portofolio
 
-This is a personal portofolio about myself! Sebuah website yang berisi perkenalan singkat diriku serta pengalaman dan pencapaian.
+This is a personal portofolio about myself! Sebuah website yang berisi perkenalan singkat diriku serta pengalaman dan pencapaian saya selama di ITB.
 
 ## Technologies Used
 
