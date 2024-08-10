@@ -10,7 +10,7 @@ This is a personal portofolio about myself! Sebuah website yang berisi perkenala
 
 ## How to Run the Program?
 
-This repo has been deployed using Vercel. So, in order to run the program, you would just need to click on the deployment link on the right side of the repo.
+This repo has been deployed using Vercel. So, in order to run the program, you would just need to click on the deployment link on the right side of the repo below "About".
 
 ## Bonus
 
